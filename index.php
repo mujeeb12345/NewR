@@ -378,7 +378,7 @@ $thn=gmdate('Y',time()+60*60*7);
 $jam=gmdate('H',time()+60*60*7);
 
 echo'<div id="header">
-<b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;">Welcome To Mujeeb Ur Rehman Bot</font></b>
+<b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;">Welcome To Mujeeb Ur Rehman REACTION Bot :-) =-O :-)</font></b>
 </div>';
 } 
 

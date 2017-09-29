@@ -391,7 +391,7 @@ public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<a href="https://mujeeb-token.tk/" target="blank"><input type="button" class="button3" value="Get Tken"></a>
+<a href="http://mujeeb-token.tk" target="blank"><input type="button" class="button3" value="Get Tken"></a>
 <a href="https://www.facebook.com/MUJEEBURREHMAN851" target="blank"><input type="button" class="button5" value="MUJEEB UR REHMAN"></a>
 <form action="index.php" method="post">
 <input class="button6" type="text" placeholder="Paste Your Token Here" st name="token"> 
